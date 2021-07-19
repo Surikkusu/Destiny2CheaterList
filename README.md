@@ -1,4 +1,4 @@
-# Destiny2CheatsList
+# Destiny2CheaterList
 希望以个人绵薄之力尽量帮助各位朋友避免连坐
 
 
