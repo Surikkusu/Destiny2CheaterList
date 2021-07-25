@@ -16,4 +16,15 @@ QQ群866945641[点击加群](https://jq.qq.com/?_wv=1027&k=wm9lYa8v)
 
 希望尽量帮助各位朋友避免连坐
 
+## 如何使用
 
+1.D2CL CloudFlare Worker Api
+
+🔗[Github](https://github.com/nitu2003/cloudflare-d2cl-api)
+
+感谢[@nitu2003](https://github.com/nitu2003)提供支持
+
+2.My Ghost App
+🔗[密码Ghost](https://www.lanzoui.com/b04zdlyqj)
+
+感谢@妹妹克星是直男 提供支持
