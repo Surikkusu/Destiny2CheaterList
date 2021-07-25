@@ -25,6 +25,7 @@ QQ群866945641[点击加群](https://jq.qq.com/?_wv=1027&k=wm9lYa8v)
 感谢[@nitu2003](https://github.com/nitu2003)提供支持
 
 2.My Ghost App
+
 🔗[密码Ghost](https://www.lanzoui.com/b04zdlyqj)
 
 感谢@妹妹克星是直男 提供支持
