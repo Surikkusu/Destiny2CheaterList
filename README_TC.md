@@ -2,7 +2,7 @@
 簡稱D2CL
 
 ## D2CL是什麼
-一個收錄命運2作弊者的項目
+一個收錄天命2作弊者的項目
 
 介紹視頻[BILIBILI](https://www.bilibili.com/video/BV13M4y1T7DW)
 
