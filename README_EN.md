@@ -7,7 +7,7 @@ A project that includes destiny 2 cheaters
 Introduction video [BILIBILI](https://www.bilibili.com/video/BV13M4y1T7DW)
 
 ## What is the role of d2cl
-You can avoid getting on the trailer and being banned by the stick chicken
+You can avoid cheating in teams you don't know
 
 ## Contact information
 
