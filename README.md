@@ -1,3 +1,7 @@
+##紧急通知
+由于bungie修改PC端加入方式,近期将会进行一次修改
+
+
 ## Destiny2CheaterList
 简称D2CL
 
