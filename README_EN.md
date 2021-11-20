@@ -1,3 +1,11 @@
+##update Name#Number
+
+URL query needs to be in the name # to %23 
+
+二月紅#2354 → 二月紅%232354
+
+Those in the directory that have not been changed are banned (cheating players who have not logged in this season)
+
 ## Destiny2CheaterList
 abbr:D2CL
 
@@ -30,4 +38,6 @@ Thank [@nitu2003](https://github.com/nitu2003)
 🔗[Password:Ghost](https://www.lanzoui.com/b04zdlyqj)
 
 Thank @妹妹克星是直男 
+
+this google translate
 
